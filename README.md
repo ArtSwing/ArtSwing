@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   </div>
   
   
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?ArtSwing=ArtSwing)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArtSwing)](https://github.com/anuraghazra/github-readme-stats)
