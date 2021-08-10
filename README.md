@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">🛠Tech Stack🛠</h1>
+<h2 align="center">Techs that I've used at least once</h2>
   <div align=center>	
-	##Techs that I've used at least once##
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 	
